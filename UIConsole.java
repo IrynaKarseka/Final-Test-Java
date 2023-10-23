@@ -3,13 +3,13 @@
 public class UIConsole {
     public static void showGreet() {
         System.out.println("\n============================================================");
-        System.out.println("\tРозыгрыш игрушек в магазине детских таваров! ");
+        System.out.println("\tРозыгрыш игрушек в магазине детских товаров! ");
         System.out.println("\t   Получите шанс выиграть игрушку!!!");
         System.out.println("============================================================");
     }
 
     public static void showControlLevers() {
-        System.out.println("\n\t\t1 - Участвовать в розыгрыше");
+        System.out.println("\n\t\t1 - Учавствовать в розыгрыше");
         System.out.println("\t\t2 - Просмотреть призы");
         System.out.println("\n============================================================");
         System.out.print("Введите цифру для выбора сюда ==> ");
